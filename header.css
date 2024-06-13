@@ -1,0 +1,18 @@
+.header{
+    height: 150px;
+    display: flex;
+    flex-direction: row;
+    border: 0;
+    align-items: center;
+    justify-content: center;
+}
+
+.name{
+    font-family: "Bebas Neue", sans-serif;
+    color: gray;
+    font-size: 100px;
+    text-align: center;
+    vertical-align: middle;
+    text-shadow: 10px 10px 0px black;
+}
+
