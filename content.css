@@ -12,3 +12,42 @@
 body{
     margin: 0;
 }
+.textContainer {
+    width: 800px;
+    margin: 0 auto;
+    padding-left: 80px;
+    float: left;
+    font-size: 30px;
+}
+
+h2{
+    font-size: 40px;
+    padding-left: 370px;
+}
+
+h3{
+    font-size: 40px;
+    padding-left: 1100px;
+}
+
+.container {
+    display: flex;
+    width: 100%; 
+    padding-bottom: 150px;
+    box-sizing: border-box; 
+}
+
+.imageContainer {
+    width: 600px; 
+    box-sizing: border-box;
+    display: flex;
+    justify-content: center; 
+    align-items: center; 
+    padding-left: 100px;
+}
+
+.imageContainer img {
+    max-width: 100%; 
+    height: auto; 
+    display: block; 
+} 
